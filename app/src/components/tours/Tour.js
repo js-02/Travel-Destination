@@ -1,28 +1,21 @@
 
-import travelArr from './db.json';
+import travelArr from "../data/db.json";
 function Tour(props){
 
     return(
-       
-        <>
-       
+    <>
 {
 travelArr.map(element =>{
 return( 
 <>
 <p>{element.name}</p>
 <img src={element.image}></img>
-<p>==============</p>
+<p>==========================</p>
 </>
-
-
-
 );
-
 })
-
 }
-        </>
-    );
+ </>
+  );
 }
 export default Tour;
