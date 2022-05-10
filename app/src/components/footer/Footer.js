@@ -10,10 +10,8 @@ return(
         <a href="#news">News</a>
         <p>©️ 2022 Travel .</p>
         <p>Mohmah Aldahleh & Samah Alsatary </p>
-
-    
     </>
 );
-
 }
+
 export default Footer;
