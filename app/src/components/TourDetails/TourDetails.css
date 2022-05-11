@@ -1,0 +1,4 @@
+.tooltip:click .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
