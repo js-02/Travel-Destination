@@ -32,8 +32,8 @@
   * props:
    - pass the data use props to the <Tour/ tour={tour}
   * navigate Bar:
-    1)To navigate back to the home page, path="/"
-    2)details about the city, path=”/city/:id”
+    1) To navigate back to the home page, path="/"
+    2) details about the city, path=”/city/:id”
   * Tour Description : (use useState hooks)
     create function to control lines, when he/she press (seemore) to see hole infomation, press (seeless) to shrink the information
              
