@@ -1,5 +1,5 @@
 
-import travelArr from "../data/db.json";
+import travelArr from "../../data/db.json";
 function Tour(props){
 
     return(
