@@ -13,7 +13,7 @@
     * Render Footer component.
 
     2)Header component:
-    * Add tag --- <h1>, in header.
+    * Add tag h1, in header.
     * Footer component add:
       - Add social media links.
       - Author of the document.
