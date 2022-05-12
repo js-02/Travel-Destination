@@ -12,8 +12,9 @@ function cardClicking(props){
     return(
         <>
         <NavBar></NavBar>
+        <h1>Travel Destenation</h1> 
      <Header></Header>
-     <Tours onClick={cardClicking}></Tours>
+     <Tours ></Tours>
      <Footer></Footer>
      </>
     );
